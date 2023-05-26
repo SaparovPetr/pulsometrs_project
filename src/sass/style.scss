@@ -2,10 +2,8 @@
 *{
 	font-family: 'Museo sans Cyrl', sans-serif;
 }
-
-.example {
-	background-color: rgb(100, 17, 189);
-	font-weight: 400;
-	color: #cd1818;
-	text-align: right;
+.container {
+	max-width: 950px;
+	margin: 0 auto;
 }
+@import 'blocks/_promo';
